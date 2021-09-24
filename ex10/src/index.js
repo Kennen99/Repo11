@@ -12,3 +12,4 @@ function mySplice(arr1,arr2,n){
 // Only change code above this line
 
 console.log(mySplice(["Dell", "Philips"],["Samsung", "AOX", "Sony"],2));
+module.exports = mySplice;
