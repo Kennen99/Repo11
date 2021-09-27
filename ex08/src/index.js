@@ -28,4 +28,5 @@ function myMutation(arr){
 }
 // Only change code above this line
 
-console.log(myMutation(["Noel", "Ole"]));
+console.log(myMutation(["MistralArena", "MaestralArena"]));
+module.exports = myMutation;
